@@ -126,10 +126,3 @@ StoreScape/
         └── components/    # LoginPage, AdminPage, BillPage
 ```
 
----
-
-## 📄 License & Author
-
-MIT License © 2026
-
-**D Nivethitha** — [LinkedIn](https://www.linkedin.com/in/nivethitha-d-306a46326/) · [GitHub](https://github.com/nivethitha-code) · nivethithadharmarajan25@gmail.com 
